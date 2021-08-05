@@ -14,7 +14,7 @@ variables:
   functionAppName: ''
 
   # Agent VM image name
-  vmImageName: 'default'
+  vmImageName: 'Default'
 
   # Working Directory
   workingDirectory: '$(System.DefaultWorkingDirectory)/AzureFunctionLoadCSVtoAzureSQL'
